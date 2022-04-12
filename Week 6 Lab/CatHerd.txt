@@ -1,0 +1,41 @@
+10
+Cat
+Felix
+European
+4
+Grumpy Cat
+Carpet
+Maincoon
+5
+Grumpy Cat
+Chipie 
+European
+8
+Cat
+Chat
+Persian
+3
+Grumpy Cat
+Theo
+Egyptian
+3
+Cuddly Cat
+Mistigri
+Gris
+1
+Cat
+Chien
+Blue
+4
+Cuddly Cat
+European
+Maria
+5
+Cuddly Cat
+Japanese
+Juliet
+2
+Cuddly Cat
+American
+Ga
+1

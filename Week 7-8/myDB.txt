@@ -1,0 +1,43 @@
+7
+Lara Eduardo
+19980110
+5
+20210505
+20210707
+True
+Jimenes Paco
+20000808
+1
+20210208
+0
+False
+Mendez Juanito
+19890110
+7
+20210420
+20220520
+True
+Alvarez Ricardo
+19970102
+10
+20200517
+20211012
+True
+Mota Jorge
+19950505
+4
+20200707
+20200801
+True
+Rodriguez Meny
+19670228
+5
+20210228
+20210320
+True
+Salaz Julian
+19500505
+8
+20210405
+0
+False
